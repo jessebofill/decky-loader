@@ -105,7 +105,9 @@
         "unfreeze": "允许更新",
         "uninstall": "卸载",
         "update_all_other": "更新 {{count}} 个插件",
-        "update_to": "更新 {{name}}"
+        "update_to": "更新 {{name}}",
+        "disable": "禁用",
+        "enable": "启用"
     },
     "PluginListLabel": {
         "hidden": "在快速访问菜单中已隐藏"
