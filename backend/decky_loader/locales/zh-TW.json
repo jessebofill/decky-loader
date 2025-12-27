@@ -105,7 +105,9 @@
         "unfreeze": "允許更新",
         "uninstall": "解除安裝",
         "update_all_other": "更新 {{count}} 個外掛程式",
-        "update_to": "更新到 {{name}}"
+        "update_to": "更新到 {{name}}",
+        "disable": "禁用",
+        "enable": "啟用"
     },
     "PluginListLabel": {
         "hidden": "已從快速存取選單中移除"
